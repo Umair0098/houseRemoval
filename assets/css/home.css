@@ -469,6 +469,7 @@ footer {
   .chooseUs > div:nth-child(2) > .chooseUsContent > div:nth-child(1) > h2:nth-child(2){
     font-size: 2.0rem;
   }
+  
 }
 
 @media only screen and (max-width: 383px) {
